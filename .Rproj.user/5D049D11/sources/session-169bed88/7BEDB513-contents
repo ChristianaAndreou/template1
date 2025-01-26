@@ -1,11 +1,15 @@
 ---
-title: "template1"
+title: "Christiana Andreou"
 ---
 
-This is a Quarto website.
+Hello!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Christiana Andreou and this is my first Quarto website.
 
-```{r}
-1 + 1
-```
+In my first project i will show you my digital marketing page Brand Waves.
+
+Welcome to Brand Waves, your go-to destination for freelance digital marketing services. I specialize in helping businesses enhance their online presence through tailored strategies that drive growth and engagement. Let’s create waves in your digital journey together!
+
+![](images/brandwaves.jpg){.center}
+
+

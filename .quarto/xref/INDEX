@@ -4,5 +4,20 @@
   },
   "about.qmd": {
     "about.html": "37ead579"
+  },
+  "ContactInfo.qmd": {
+    "ContactInfo.html": "52aecf96"
+  },
+  "services.qmd": {
+    "services.html": "6f013576"
+  },
+  "Services.qmd": {
+    "Services.html": "93720e99"
+  },
+  "Portfolio.qmd": {
+    "Portfolio.html": "ae91c08f"
+  },
+  "Aboutus.qmd": {
+    "Aboutus.html": "06a2801f"
   }
 }

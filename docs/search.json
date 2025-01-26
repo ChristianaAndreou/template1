@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "ContactInfo.html",
+    "href": "ContactInfo.html",
+    "title": "Contact Info",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Gmail: brand1waves@gmail.com\n instagram: www.instagram.com/brand1waves\n facebook: www.facebook.com/brand1waves"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "template1",
+    "title": "Christiana Andreou",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello!\nMy name is Christiana Andreou and this is my first Quarto website.\nIn my first project i will show you my digital marketing page Brand Waves.\nWelcome to Brand Waves, your go-to destination for freelance digital marketing services. I specialize in helping businesses enhance their online presence through tailored strategies that drive growth and engagement. Let’s create waves in your digital journey together!"
+  },
+  {
+    "objectID": "Services.html",
+    "href": "Services.html",
+    "title": "Our Services",
+    "section": "",
+    "text": "Logo Design/Redesign\n\nSocial Media Management\n\nContent Creation\n\nCopywriting\n\nAdvertising\n\nProduct Photography"
+  },
+  {
+    "objectID": "Portfolio.html",
+    "href": "Portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Aboutus.html",
+    "href": "Aboutus.html",
+    "title": "About",
+    "section": "",
+    "text": "At our company, we tailor our services to the goals of your business. Whether you’re looking to enhance your brand presence, increase sales, or achieve specific objectives, we offer customized solutions to ensure success in the market."
   }
 ]

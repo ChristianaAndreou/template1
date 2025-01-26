@@ -1,0 +1,10 @@
+---
+title: "Contact Info"
+---
+
+<img src="images/gmail_icon.png" alt="Gmail" width="20" style="vertical-align: middle;"> Gmail: brand1waves@gmail.com
+
+<img src="images/insta_icon.jpg" alt="Instagram " width="20" style="vertical-align: middle;"> instagram: [www.instagram.com/brand1waves](https://www.instagram.com/brand1waves) 
+
+<img src="images/fb_icon.png" alt="Facebook" width="20" style="vertical-align: middle;"> facebook: [www.facebook.com/brand1waves](https://www.facebook.com/brand1waves)  
+

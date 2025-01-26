@@ -3,18 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "template1"
+  title: "Brand Waves Marketing Agency"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+        
+      - href: Aboutus.qmd
+        text: About us
+        
+      - href: Services.qmd
+        text: Services
+        
+      - href: Portfolio.qmd
+        text: Portfolio
+        
+      - href: ContactInfo.qmd
+        text: Contact Info
+        
+    logo: images/logo_tepak.png  # Set the logo image for the navbar
+    
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
